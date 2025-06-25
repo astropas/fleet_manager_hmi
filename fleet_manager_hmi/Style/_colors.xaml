@@ -1,0 +1,103 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="white" Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="black" Color="#000000"/>
+    
+    <SolidColorBrush x:Key="gray_50" Color="#F9FAFB"/>
+    <SolidColorBrush x:Key="gray_100" Color="#F3F4F6"/>
+    <SolidColorBrush x:Key="gray_200" Color="#E5E7EB"/>
+    <SolidColorBrush x:Key="gray_300" Color="#D2D5DA"/>
+    <SolidColorBrush x:Key="gray_400" Color="#9CA3AF"/>
+    <SolidColorBrush x:Key="gray_500" Color="#6D7280"/>
+    <SolidColorBrush x:Key="gray_600" Color="#4B5563"/>
+    <SolidColorBrush x:Key="gray_700" Color="#374151"/>
+    <SolidColorBrush x:Key="gray_800" Color="#1F2937"/>
+    <SolidColorBrush x:Key="gray_900" Color="#111827"/>
+    
+    <SolidColorBrush x:Key="primary_blue_50" Color="#eff6ff"/>
+    <SolidColorBrush x:Key="primary_blue_100" Color="#dbeafe"/>
+    <SolidColorBrush x:Key="primary_blue_200" Color="#bfdbfe"/>
+    <SolidColorBrush x:Key="primary_blue_300" Color="#93c5fd"/>
+    <SolidColorBrush x:Key="primary_blue_400" Color="#60a5fa"/>
+    <SolidColorBrush x:Key="primary_blue_500" Color="#3b82f6"/>
+    <SolidColorBrush x:Key="primary_blue_600" Color="#2563eb"/>
+    <SolidColorBrush x:Key="primary_blue_700" Color="#1d4ed8"/>
+    <SolidColorBrush x:Key="primary_blue_800" Color="#1e40af"/>
+    <SolidColorBrush x:Key="primary_blue_900" Color="#1e3a8a"/>
+    
+    <!--#region Secondary colors-->
+    
+    <SolidColorBrush x:Key="secondary_blue_50" Color="#F8F9FC"/>
+    <SolidColorBrush x:Key="secondary_blue_100" Color="#EAECF5"/>
+    <SolidColorBrush x:Key="secondary_blue_200" Color="#C8CCE5"/>
+    <SolidColorBrush x:Key="secondary_blue_300" Color="#9EA5D1"/>
+    <SolidColorBrush x:Key="secondary_blue_400" Color="#717BBC"/>
+    <SolidColorBrush x:Key="secondary_blue_500" Color="#4E5BA6"/>
+    <SolidColorBrush x:Key="secondary_blue_600" Color="#3E4784"/>
+    <SolidColorBrush x:Key="secondary_blue_700" Color="#363F72"/>
+    <SolidColorBrush x:Key="secondary_blue_800" Color="#293056"/>
+    <SolidColorBrush x:Key="secondary_blue_900" Color="#101323"/>
+    
+    <SolidColorBrush x:Key="secondary_orange_50" Color="#FFF7ED"/>
+    <SolidColorBrush x:Key="secondary_orange_100" Color="#FFEDD5"/>
+    <SolidColorBrush x:Key="secondary_orange_200" Color="#FED7AA"/>
+    <SolidColorBrush x:Key="secondary_orange_300" Color="#FDBA74"/>
+    <SolidColorBrush x:Key="secondary_orange_400" Color="#FB923C"/>
+    <SolidColorBrush x:Key="secondary_orange_500" Color="#F97316"/>
+    <SolidColorBrush x:Key="secondary_orange_600" Color="#EA580C"/>
+    <SolidColorBrush x:Key="secondary_orange_700" Color="#EA580C"/>
+    <SolidColorBrush x:Key="secondary_orange_800" Color="#9A3412"/>
+    <SolidColorBrush x:Key="secondary_orange_900" Color="#7C2D12"/>
+    
+    <SolidColorBrush x:Key="secondary_purple_50" Color="#faf5ff"/>
+    <SolidColorBrush x:Key="secondary_purple_100" Color="#f3e8ff"/>
+    <SolidColorBrush x:Key="secondary_purple_200" Color="#e9d5ff"/>
+    <SolidColorBrush x:Key="secondary_purple_300" Color="#d8b4fe"/>
+    <SolidColorBrush x:Key="secondary_purple_400" Color="#c084fc"/>
+    <SolidColorBrush x:Key="secondary_purple_500" Color="#a855f7"/>
+    <SolidColorBrush x:Key="secondary_purple_600" Color="#9333ea"/>
+    <SolidColorBrush x:Key="secondary_purple_700" Color="#7e22ce"/>
+    <SolidColorBrush x:Key="secondary_purple_800" Color="#6b21a8"/>
+    <SolidColorBrush x:Key="secondary_purple_900" Color="#581c87"/>
+    
+    <!--#endregion-->
+    
+    <!--#region Supporting colors-->
+    
+    <SolidColorBrush x:Key="supporting_green_50" Color="#f0fdf4"/>
+    <SolidColorBrush x:Key="supporting_green_100" Color="#DCFCE7"/>
+    <SolidColorBrush x:Key="supporting_green_200" Color="#bbf7d0"/>
+    <SolidColorBrush x:Key="supporting_green_300" Color="#86EFAC"/>
+    <SolidColorBrush x:Key="supporting_green_400" Color="#4ade80"/>
+    <SolidColorBrush x:Key="supporting_green_500" Color="#22c55e"/>
+    <SolidColorBrush x:Key="supporting_green_600" Color="#16a34a"/>
+    <SolidColorBrush x:Key="supporting_green_700" Color="#15803d"/>
+    <SolidColorBrush x:Key="supporting_green_800" Color="#166534"/>
+    <SolidColorBrush x:Key="supporting_green_900" Color="#14532d"/>
+
+    <SolidColorBrush x:Key="supporting_red_50" Color="#FEF2F2"/>
+    <SolidColorBrush x:Key="supporting_red_100" Color="#FEE2E2"/>
+    <SolidColorBrush x:Key="supporting_red_200" Color="#FECACA"/>
+    <SolidColorBrush x:Key="supporting_red_300" Color="#FCA5A5"/>
+    <SolidColorBrush x:Key="supporting_red_400" Color="#FCA5A5"/>
+    <SolidColorBrush x:Key="supporting_red_500" Color="#EF4444"/>
+    <SolidColorBrush x:Key="supporting_red_600" Color="#DC2626"/>
+    <SolidColorBrush x:Key="supporting_red_700" Color="#B91C1C"/>
+    <SolidColorBrush x:Key="supporting_red_800" Color="#991B1B"/>
+    <SolidColorBrush x:Key="supporting_red_900" Color="#7F1D1D"/>
+    
+    <SolidColorBrush x:Key="supporting_yellow_50" Color="#FEFCE8"/>
+    <SolidColorBrush x:Key="supporting_yellow_100" Color="#FEF9C3"/>
+    <SolidColorBrush x:Key="supporting_yellow_200" Color="#FEF08A"/>
+    <SolidColorBrush x:Key="supporting_yellow_300" Color="#FDE047"/>
+    <SolidColorBrush x:Key="supporting_yellow_400" Color="#FACC15"/>
+    <SolidColorBrush x:Key="supporting_yellow_500" Color="#EAB308"/>
+    <SolidColorBrush x:Key="supporting_yellow_600" Color="#CA8A04"/>
+    <SolidColorBrush x:Key="supporting_yellow_700" Color="#A16207"/>
+    <SolidColorBrush x:Key="supporting_yellow_800" Color="#854D0E"/>
+    <SolidColorBrush x:Key="supporting_yellow_900" Color="#713F12"/>
+    
+    <!--#endregion-->
+    
+</ResourceDictionary>

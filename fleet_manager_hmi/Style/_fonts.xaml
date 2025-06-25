@@ -1,0 +1,343 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!--#region Body-->
+    
+    <Style x:Key="body-xl-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_xl-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_xl-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_xl-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body-large-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_large-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_large-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_large-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body-medium-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_medium-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_medium-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_medium-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+    <Style x:Key="body-small-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_small-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_small-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="body_small-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+    
+    <!--#endregion-->
+    
+    <!--#region Display-->
+
+    <Style x:Key="display-xl-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="72"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <Style x:Key="display-xl-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="72"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+    </Style>
+
+    <Style x:Key="display-xl-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="72"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+    </Style>
+
+    <Style x:Key="display-xl-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="72"/>
+        <Setter Property="FontWeight" Value="Light"/>
+    </Style>
+
+    <Style x:Key="display-large-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="60"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <Style x:Key="display-large-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="60"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+    </Style>
+
+    <Style x:Key="display-large-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="60"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+    </Style>
+
+    <Style x:Key="display-large-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="60"/>
+        <Setter Property="FontWeight" Value="Light"/>
+    </Style>
+
+    <Style x:Key="display-medium-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="48"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <Style x:Key="display-medium-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="48"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+    </Style>
+
+    <Style x:Key="display-medium-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="48"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+    </Style>
+
+    <Style x:Key="display-medium-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="48"/>
+        <Setter Property="FontWeight" Value="Light"/>
+    </Style>
+    
+    <!--#endregion-->
+    
+    <!--#region Heading-->
+
+    <Style x:Key="heading-xl-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="36"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_xl-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="36"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_xl-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="36"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_xl-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="36"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading-large-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_large-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_large-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_large-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading-medium-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_medium-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_medium-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_medium-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading-small-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_small-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_small-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="heading_small-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+    
+    <!--#endregion-->
+    
+    <!--#region Label-->
+
+    <Style x:Key="label-bold" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="label-medium" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="FontWeight" Value="Medium"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="label-regular" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="FontWeight" Value="Regular"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+
+    <Style x:Key="label-light" TargetType="Control">
+        <Setter Property="FontFamily" Value="Inter"/>
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="FontStretch" Value="SemiCondensed"/>
+    </Style>
+    
+    <!--#endregion-->
+    
+</ResourceDictionary>
